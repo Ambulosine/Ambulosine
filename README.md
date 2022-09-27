@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ambulosine
+- 👋 Hi, I’m @  Ambulose
 - 👀 I’m interested in ...Full Stack developer
 - 🌱 I’m currently learning ...HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...Some projects
